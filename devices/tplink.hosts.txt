@@ -1,0 +1,13 @@
+# IOT HOSTage works alongside your farourite ad blocking DNS server
+# IOT Thing No Phone Home
+#    _         _ _       _    
+#   | |       | (_)     | |   
+#   | |_ _ __ | |_ _ __ | | __
+#   | __| '_ \| | | '_ \| |/ /
+#   | |_| |_) | | | | | |   < 
+#    \__| .__/|_|_|_| |_|_|\_\
+#       | |                   
+#       |_|                                
+
+#TPLink IOT devices
+tplinkcloud.com 0.0.0.0
